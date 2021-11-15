@@ -1,12 +1,6 @@
 ### Olá!👋
 
 
-
-- 🔭 Hoje eu trabalho como programador júnior
-- 🌱 Estudando Delphi e PHP
-- 😄 Pronouns: ela/dela
-
-
 <div align="center">
   <a href="https://github.com/danibutelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danibutelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,7 +13,6 @@
   <img align="center" alt="dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dani-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="dani-DELPHI" height="40" width="50" src="https://img.icons8.com/color/48/000000/delphi-ide.png"/>
-  <img align="center" alt="dani-MYSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="dani-TORTOISEGIT" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"     
   src="https://cdn.discordapp.com/attachments/881729713427591241/909934234075013200/ezgif.com-gif-maker.gif">
